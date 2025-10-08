@@ -1,0 +1,16 @@
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to origin/dt
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from dt to dt
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: reset: moving to HEAD
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: reset: moving to HEAD
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: reset: moving to 5512472
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: reset: moving to 5512472
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from main to dt
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: reset: moving to 5512472
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: checkout: moving from dt to main
+[33m5512472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdt[m[33m, [m[1;31morigin/n_hoang[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dt[m[33m, [m[1;31morigin/b_hoang[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from Hiep to dt
+[33mf1e035e[m HEAD@{10}: commit: Initial commit
+[33md6f55cd[m HEAD@{11}: checkout: moving from Hiep to Hiep
+[33md6f55cd[m HEAD@{12}: commit: add succcess
+[33mcca0ea4[m HEAD@{13}: checkout: moving from main to Hiep
+[33mcca0ea4[m HEAD@{14}: Branch: renamed refs/heads/master to refs/heads/main
+[33mcca0ea4[m HEAD@{16}: commit (initial): Initial commit: School Management base project
